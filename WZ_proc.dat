@@ -1,0 +1,6 @@
+generate p p > w- z j, z > l+ l-, w- > l- vl~
+add process p p > w+ z j, z > l+ l-, w+ > l+ vl
+add process p p > w- z j j, z > l+ l-, w- > l- vl~
+add process p p > w+ z j j, z > l+ l-, w+ > l+ vl
+output ~/MG5_aMC_v3_4_0/intro_project/WZ2j
+
